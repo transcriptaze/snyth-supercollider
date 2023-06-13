@@ -3,6 +3,10 @@
 Basic Supercollider plugin that implements the _snyth_ Jacobi ellipse oscillator. For a detailed description, 
 user guide and examples, please see the parent repository [README](https://github.com/transcriptaze/snyth).
 
+This is very much a work-in-progress and there honestly isn't much here other than a bare bones proof of concept
+because most of the development effort is currently being focused on the WebAudio implementation. But like the 
+PureData implementation, one of these days.....
+
 
 ### Issues and Feature Requests
 
